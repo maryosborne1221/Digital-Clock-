@@ -1,0 +1,22 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+background-color: #abd8ee;
+color: rgb(243, 180, 238);
+font-family:Blackadder;
+}
+.clock-container {
+text-align: center;
+font-size: 3rem;
+background: #b6f0ec;
+padding: 20px;
+border-radius: 10px;
+box-shadow: 0 0 10px rgba(87, 224, 119, 0.2);
+}
