@@ -1,2 +1,1 @@
-# Digital-Clock-
-Digital Clock 
+This Digital Clock code initializes by getting the current date and time. It then formats the hours, minutes, and seconds, adding leading zeros if necessary, and determines AM/PM. The formatted time is displayed in the HTML element with the ID "clock," and the updateClock function is called every second to keep the time updated.
